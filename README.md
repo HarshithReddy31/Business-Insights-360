@@ -22,3 +22,8 @@ The following steps were followed in this project:
 
 # Files and Resources
 Power BI Dashboard : https://app.powerbi.com/reportEmbed?reportId=227e8cea-a6ba-4ccc-b952-2bb5363cb9ae&autoAuth=true&ctid=b5b2263d-68aa-453e-b972-aa1421410f80
+
+# Author
+👤 Sai Harshith Reddy Gaddamidhi
+🔗 LinkedIn Profile : www.linkedin.com/in/gaddamidhi
+📧 reddysaiharshith3131@gmail.com
